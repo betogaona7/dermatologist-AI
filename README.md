@@ -29,4 +29,4 @@ Category 3 Score: 0.435
 ```
 
 ### ROC curves
-![ROC curves with scores]("./images/ROC.png")
+![ROC curves with scores](images/ROC.png)
