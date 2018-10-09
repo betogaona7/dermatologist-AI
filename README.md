@@ -23,9 +23,9 @@ The model is ranked according to three separate categories:
 
 ### Scores 
 ```
-Category 1 Score: 0.469
-Category 2 Score: 0.401
-Category 3 Score: 0.435
+Category 1 Score: 0.792
+Category 2 Score: 0.798
+Category 3 Score: 0.795
 ```
 
 ### ROC curves
